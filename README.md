@@ -31,9 +31,12 @@ The system is deployed across two services:
 
 ## File Overview
 
+```
 SHL-Recommendation-Engine
-├── app.py # Gradio UI (Frontend)
-├── back.py # Flask API (Backend)
-├── assessments_with_embeddings-2.csv # Assessment metadata and vector embeddings
-├── requirements.txt # Project dependencies
-└── README.md # Project documentation
+├── app.py                          # Gradio UI (Frontend)
+├── back.py                         # Flask API (Backend)
+├── assessments_with_embeddings-2.csv  # Assessment metadata and vector embeddings
+├── requirements.txt                # Project dependencies
+└── README.md                       # Project documentation
+```
+
